@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>full-stack engineer · backend engineer · software engineer · Python · FastAPI · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>full-stack engineer · backend engineer · software engineer </p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>23 repositories · 9 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>25 contributions · 12 active days</p></td>
 </tr>
